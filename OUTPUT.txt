@@ -1,0 +1,44 @@
+OUTPUT
+Lab 17 C Linked List
+
+Author: Geraldine Marin-Zamora
+
+Output:
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+0 NOT FOUND
+1  FOUND
+2 NOT FOUND
+3  FOUND
+4 NOT FOUND
+5  FOUND
+6 NOT FOUND
+7  FOUND
+8 NOT FOUND
+9  FOUND
+10 NOT FOUND
+11  FOUND
+12 NOT FOUND
+13  FOUND
+14 NOT FOUND
+15  FOUND
+16 NOT FOUND
+17  FOUND
+18 NOT FOUND
+19  FOUND
+1
+5
+7
+11
+13
+17
+19
+Program ended with exit code: 0
